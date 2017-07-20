@@ -8,7 +8,7 @@ L_put=list()
 L_get=list()
 fromlist=list()
 tolist=list()
-seednode='27635430'
+seednode='27635430'  # for test
 
 q_all.put(seednode)
 L_put.append(seednode)
